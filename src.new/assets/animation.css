@@ -1,0 +1,63 @@
+/* 入场的初始位置 */
+.slide-left-enter{
+    transform: translateX(100%);
+    opacity: 0;
+}
+.slide-left-enter-to{
+    transform: translateX(0);
+    opacity: 1;
+}
+.slide-left-enter-active{
+    transition: all 1s;
+}
+
+/* 离场动画 */
+.slide-left-leave{
+    transform: translateX(0) rotate(0deg);
+    opacity: 1;
+
+}
+.slide-left-leave-to{
+    transform: translateX(-100%) rotate(360deg);
+    opacity: 0;
+
+}
+.slide-left-leave-active{
+    transition: all 1s;
+}
+
+/* 入场的初始位置 */
+.slide-right-enter{
+    transform: translateX(-100%);
+}
+.slide-right-enter-to{
+    transform: translateX(0);
+}
+.slide-right-enter-active{
+    transition: all 1s;
+}
+
+/* 离场动画 */
+.slide-right-leave{
+    transform: translateX(0);
+
+}
+.slide-right-leave-to{
+    transform: translateX(100%);
+}
+.slide-right-leave-active{
+    transition: all 1s;
+}
+.view{
+    position: absolute;
+    width:100%;
+}
+
+
+/* 全局样式 */
+html,body,#app{
+    height: 100%;
+}
+body{
+    margin:0;
+}
