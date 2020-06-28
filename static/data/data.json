@@ -1,0 +1,155 @@
+{
+  "course": [
+    {
+      "id": 0,
+      "title": "SZS提醒大班课1",
+      "time": "10月25日 16:32 ~ 10月28日 23:00 | 共12课时",
+      "avatar": [
+        { "name": "约课讲师勿动", "src": "avatar.jpg" },
+        { "name": "宋老师", "src": "avatar 2.jpg" },
+        { "name": "吕老师", "src": "avatar3.jpg" }
+      ],
+      "count": 3,
+      "num": 12,
+      "collect":false
+    },
+    {
+      "id": 1,
+      "title": "SZS提醒大班课3",
+      "time": "10月25日 16:32 ~ 10月28日 23:00 | 共8课时",
+      "avatar": [
+        { "name": "约课讲师勿动", "src": "avatar.jpg" },
+        { "name": "宋老师", "src": "avatar 2.jpg" }
+      ],
+      "count": 2,
+      "num": 12,
+      "collect":false
+    },
+    {
+      "id": 2,
+      "title": "SZS提醒大班课4",
+      "time": "10月25日 16:32 ~ 10月28日 23:00 | 共6课时",
+      "avatar": [{ "name": "宋老师", "src": "avatar 2.jpg" }],
+      "count": 6,
+      "num": 12,
+      "collect":false
+    },
+    {
+      "id": 3,
+      "title": "SZS提醒大班课5",
+      "time": "10月25日 16:32 ~ 10月28日 23:00 | 共12课时",
+      "avatar": [
+        { "name": "约课讲师勿动", "src": "avatar.jpg" },
+        { "name": "宋老师", "src": "avatar 2.jpg" },
+        { "name": "吕老师", "src": "avatar3.jpg" }
+      ],
+      "count": 8,
+      "num": 12,
+      "collect":false
+    },
+    {
+      "id": 4,
+      "title": "SZS提醒大班课6",
+      "time": "10月25日 16:32 ~ 10月28日 23:00 | 共12课时",
+      "avatar": [
+        { "name": "约课讲师勿动", "src": "avatar.jpg" },
+        { "name": "宋老师", "src": "avatar 2.jpg" },
+        { "name": "吕老师", "src": "avatar3.jpg" }
+      ],
+      "count": 3,
+      "num": 12,
+      "collect":false
+    },
+    {
+      "id": 5,
+      "title": "SZS提醒大班课7",
+      "time": "10月25日 16:32 ~ 10月28日 23:00 | 共12课时",
+      "avatar": [
+        { "name": "约课讲师勿动", "src": "avatar.jpg" },
+        { "name": "宋老师", "src": "avatar 2.jpg" },
+        { "name": "吕老师", "src": "avatar3.jpg" }
+      ],
+      "count": 3,
+      "num": 12,
+      "collect":false
+    },
+    {
+      "id": 6,
+      "title": "SZS提醒大班课8",
+      "time": "10月25日 16:32 ~ 10月28日 23:00 | 共12课时",
+      "avatar": [
+        { "name": "约课讲师勿动", "src": "avatar.jpg" },
+        { "name": "宋老师", "src": "avatar 2.jpg" },
+        { "name": "吕老师", "src": "avatar3.jpg" }
+      ],
+      "count": 3,
+      "num": 12,
+      "collect":false
+    },
+    {
+      "id": 7,
+      "title": "SZS提醒大班课9",
+      "time": "10月25日 16:32 ~ 10月28日 23:00 | 共12课时",
+      "avatar": [
+        { "name": "约课讲师勿动", "src": "avatar.jpg" },
+        { "name": "宋老师", "src": "avatar 2.jpg" },
+        { "name": "吕老师", "src": "avatar3.jpg" }
+      ],
+      "count": 3,
+      "num": 12,
+      "collect":false
+    },
+    {
+      "id": 8,
+      "title": "SZS提醒大班课10",
+      "time": "10月25日 16:32 ~ 10月28日 23:00 | 共12课时",
+      "avatar": [
+        { "name": "约课讲师勿动", "src": "avatar.jpg" },
+        { "name": "宋老师", "src": "avatar 2.jpg" },
+        { "name": "吕老师", "src": "avatar3.jpg" }
+      ],
+      "count": 3,
+      "num": 12,
+      "collect":false
+    },
+    {
+      "id": 9,
+      "title": "SZS提醒大班课11",
+      "time": "10月25日 16:32 ~ 10月28日 23:00 | 共12课时",
+      "avatar": [
+        { "name": "约课讲师勿动", "src": "avatar.jpg" },
+        { "name": "宋老师", "src": "avatar 2.jpg" },
+        { "name": "吕老师", "src": "avatar3.jpg" }
+      ],
+      "count": 3,
+      "num": 12,
+      "collect":false
+    },
+    {
+      "id": 10,
+      "title": "SZS提醒大班课12",
+      "time": "10月25日 16:32 ~ 10月28日 23:00 | 共12课时",
+      "avatar": [
+        { "name": "约课讲师勿动", "src": "avatar.jpg" },
+        { "name": "宋老师", "src": "avatar 2.jpg" },
+        { "name": "吕老师", "src": "avatar3.jpg" }
+      ],
+      "count": 3,
+      "num": 12,
+      "collect":false
+    },
+    {
+      "id": 11,
+      "title": "SZS提醒大班课13",
+      "time": "10月25日 16:32 ~ 10月28日 23:00 | 共12课时",
+      "avatar": [
+        { "name": "约课讲师勿动", "src": "avatar.jpg" },
+        { "name": "宋老师", "src": "avatar 2.jpg" },
+        { "name": "吕老师", "src": "avatar3.jpg" }
+      ],
+      "count": 8,
+      "num": 12,
+      "collect":false
+    }
+  ]
+}
